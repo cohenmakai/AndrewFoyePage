@@ -1,0 +1,46 @@
+.content {
+  background-color: #f1f1f1;
+  height: 450px;
+  padding: 32px 32px 64px 32px;
+  margin: 32px;
+  font-size: 32px;
+  border-radius: 20px;
+}
+
+.content-header {
+  margin: 40px;
+  margin-top: 80;
+  height: 60px;
+  align-items: center;
+  display: flex;
+}
+
+.content-header-logo {
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+}
+.content-header-link {
+  font-size: 24px;
+  position: absolute;
+  right: 112px;
+}
+
+.content-header-letter {
+  font-size: 32px;
+}
+
+.content-source {
+  margin-top: 100px;
+  margin-bottom: 48px;
+  margin-left: 48px;
+  height: 120px;
+  font-size: 24px;
+}
+
+.content-source h1 {
+  font-size: 60px;
+}
+
+@media screen and (max-width: 400px) {
+}
