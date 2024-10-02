@@ -31,7 +31,7 @@ export const Content = () => {
         <a style={{ padding: 20 }}>andrewfoye4@gmail.com</a>
         <img src="./linkedin.svg" className="content-header-logo" />
         <a
-          href="https://www.linkedin.com/in/andrew-smith-bb96b4326"
+          href="https://https://www.linkedin.com/in/andrew-foye-a43bab31b/"
           style={{ padding: 20 }}
         >
           <u>LinkedIn</u>
